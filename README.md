@@ -1,5 +1,5 @@
 # Hacky-Board
-Designined in KiCAD, and FreeCAD
+Designined in KiCAD & Eagle, and FreeCAD
 
 Schematic
 <img width="1110" height="769" alt="image" src="https://github.com/user-attachments/assets/2504a569-911b-49fb-b981-f06692b39f27" />
